@@ -1,0 +1,5 @@
+Land Battle with Cap point Rules:
+-Empire Landships are banned. 
+-Unit caps automatically follow fruit rules; you must also manually follow fruit army limits on duplicate items, spells, and minimum unit count (https://drive.google.com/file/d/1l-bR-7Gxs_kU_fR1k3ituHLKa5X66CSU/view)
+-Max 2 combined for Grail Knights, Guardians, and Hippogryph Knights for Bretonnia.
+-You must also manually follow fruit army limits on duplicate items and spells, nets/rampages, and minimum unit count.

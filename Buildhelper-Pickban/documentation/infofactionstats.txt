@@ -1,0 +1,5 @@
+This is a command to see faction winrates and total games played for each faction. 
+To use this command input "!factionstats". Which gives the overall winrate for all factions in any matchup.
+
+If you need to see detailed winrate for factions in specific matchups use the command "!factionstats faction: F1"
+Where F1 is the faction acronym for the desired detailed faction statistics. To see a full list of allowed acronyms use !factions.

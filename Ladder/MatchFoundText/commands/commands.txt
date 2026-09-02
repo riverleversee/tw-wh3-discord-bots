@@ -1,0 +1,19 @@
+There are a variety of commands in the bot for joining the Que, leaving it, reporting results, and updating preferences
+1. Commands for joining, leaving, and checking the Que.
+/join--Will add you to the Que. 
+/leave--Will remove you from the Que. 
+/queue_size--Will tell you the current number of players in Que. 
+2. Commands for reporting results and contacting your opponent.
+/report_result--Allows you to resolve a match, or exit. 
+/send_message--Allows you to contact your opponent through a bot DM. 
+/rules—shows you current unit bans/rules for your match
+3. Updating your matchmaking preferences.
+/update_mode--select your favorite game modes (Land/Dom)
+/update_length--Select how long a series you want to play
+/update_pick_system--Select how you like to do picks and bans 
+/update_anonymous--Select if you want to have matches where the player identities are obscured. 
+/update_global_bans--Select the type of global bans in your series. 
+/update_unit_size--select the unit size you want to play with.
+/view_params--View all of your current preferences. 
+4. Check the leaderboard!
+/leaderboard--Lists the top 10 elo players in the ladder.

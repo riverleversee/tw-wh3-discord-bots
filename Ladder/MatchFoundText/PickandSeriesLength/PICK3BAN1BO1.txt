@@ -1,0 +1,1 @@
+P1 picks 3 factions to play and bans 1 from opponent; P2 removes one of the 3 and picks an unbanned faction to fight either remaining P1 faction.

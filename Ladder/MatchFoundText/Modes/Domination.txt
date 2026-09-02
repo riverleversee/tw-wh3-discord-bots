@@ -1,0 +1,5 @@
+This is a Domination match, using map(s) from the Total Tavern Tournament Map Pack mod. Both players should activate this mod and no others to ensure compatibility.
+https://steamcommunity.com/sharedfiles/filedetails/?id=2875865414
+Also have:
+-Unit Caps On 
+-Check the /rules command for current unit specific bans. 

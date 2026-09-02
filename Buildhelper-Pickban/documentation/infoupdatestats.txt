@@ -1,0 +1,6 @@
+This is a command to record win and loss statistics into the database so winrate statistics can be determined.
+To use this command input !updatetstats Winner: F1 Loser: F2 
+
+Where F1 and F2 are faction acronyms for the factions that were played, where F1 won and F2 lost. For example, "!updatetstats Winner: BR Loser: GS" to update the database for a game where Brettonia won and Greenskins lost.
+To get a full list of the acceptable faction acronyms use the command !factions.
+If you accedentally update an incorrect game or faction into the bot, you can remove that previous updatae by adding the option "Remove: True" to the command.

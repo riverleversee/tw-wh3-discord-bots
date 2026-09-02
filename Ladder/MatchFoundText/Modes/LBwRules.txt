@@ -1,0 +1,5 @@
+This is a Land Battle match, using fruit rules. 
+https://drive.google.com/file/d/1l-bR-7Gxs_kU_fR1k3ituHLKa5X66CSU/view
+-Determine a moderator to settle rule disputes prior to the start of game 1. 
+-If you cannot decide on a moderator either contact a server admin to settle disputes or play with cap point mod.
+-Check the /rules command for current unit specific bans. 

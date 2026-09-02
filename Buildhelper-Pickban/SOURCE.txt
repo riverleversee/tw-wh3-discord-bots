@@ -1,0 +1,18 @@
+Buildhelper-Pickban bot — source locations
+==========================================
+
+Primary source tree:
+  <local>/DiscordBo/DicordBot/
+
+Chosen latest script:
+  discordbotwstatsbeta.py
+
+Bulk media left in place (NOT copied):
+  buildhelp/ — ~224 images, ~153 MB — full faction matchup build text + images
+
+Small data copied from:
+  MUmatrix.csv, MUmatrixstrat.csv, documentation/, factionstats/
+
+Sample images copied from buildhelp faction pairs (8 pairs in samples/).
+
+This folder is a GitHub candidate slice. Originals were copied, not moved.

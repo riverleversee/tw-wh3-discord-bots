@@ -1,0 +1,4 @@
+This is a Conquest match using the new Conquest game mode.
+Game Settings:
+-Check the /rules command for current unit specific bans. 
+-Set victory points to 700.

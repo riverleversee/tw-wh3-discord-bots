@@ -1,0 +1,1 @@
+If you cannot find your opponent you can send them a message using /send_message.

@@ -1,0 +1,4 @@
+Round 1: P1 picks 3 factions to play and bans 1 from opponent; P2 removes one of the 3 and picks an unbanned faction to fight either remaining P1 faction.
+Round 2: Reverse of Round 1 - P2 starts by picking 3 banning 1.
+Round 3: Winner of round 2 picks 2 factions they want to play and ban 1 not previously banned or removed. Opponent counterpicks from remaining factions.
+No player may play the same faction more than once in a Bof3.

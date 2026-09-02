@@ -1,0 +1,5 @@
+Questo è un comando per dare ai nuovi giocatori liste e suggerimenti di liste su ogni matchup, create dai veterani!
+Per usare questo comando, digita "!MUhelp MU: F1vsF2" dove F1 e F2 sono acronimi delle fazioni che stanno per venire giocate. Per esempio, "!MUhelp MU: DWvsGS" se hai bisogno di aiuto in Nani vs Greenskins.
+Per avere una lista completa degli acronimi utilizzati, usa il comando !factions.
+Se hai bisogno di una lingua diversa dall'inglese, usa il comando "!MUhelp MU: F1vsF2 LANG: ESP" per lo spagnolo,  "!MUhelp MU: F1vsF2 LANG: ITL" per l'italiano per vedere se una traduzione è stata creata.
+Se cerchi aiuto per la modalità Domination, usa il comando "!MUhelp MU: F1vsF2 Mode: DOM", dove l'aggiunta: DOM specifica la modalità Domination.

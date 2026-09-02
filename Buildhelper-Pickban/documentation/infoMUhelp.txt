@@ -1,0 +1,5 @@
+This is a command to give new players build advice and builds for any Matchup created by veterans!
+To use this command input "!MUhelp MU: F1vsF2" where F1 and F2 are faction acronyms for the factions being played. For example, "!MUhelp MU: DWvsGS" for help in Dwarf vs Greenskins.
+To get a full list of the acceptable faction acronyms use the command !factions.
+If you need a languageg other than english use the command "!MUhelp MU: F1vsF2 LANG: ESP" for spanish,  "!MUhelp MU: F1vsF2 LANG: ITL" for Italian to see if a translated version has been created.
+To for help with the Domination mode section use the command "!MUhelp MU: F1vsF2 Mode: DOM", where the added Mode: DOM specifies domination mode.

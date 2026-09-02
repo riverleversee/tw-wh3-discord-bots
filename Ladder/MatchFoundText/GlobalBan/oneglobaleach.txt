@@ -1,0 +1,3 @@
+Prior to making your first faction picks Player 1 global bans 1 faction, and then Player 2 global bans 1 faction.
+The global bannable factions for Land Battle/Conquest are: Kislev, Beastmen, Grand Cathay, Bretonnia, Wood Elves, Tzeentch, Empire, Dwarfs.
+The global bannable factions for Domination are: Kislev, Beastmen, Norsca, Bretonnia, Wood Elves, Tzeentch, Empire, Dwarfs.

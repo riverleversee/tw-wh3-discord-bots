@@ -1,0 +1,6 @@
+Older script versions were moved out of this upload candidate folder.
+
+Archive location (local):
+  D:\Github candidates\Discord Bots Archive\Ladder\_history\
+
+Contains prior .py copies including old tokens. Not for GitHub upload.

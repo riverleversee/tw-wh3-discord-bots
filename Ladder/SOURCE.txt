@@ -1,0 +1,16 @@
+Ladder bot — source locations
+=============================
+
+Primary source tree:
+  <local>/DiscordBo/DicordBot/ladder/
+
+Chosen latest script:
+  ladder.py
+
+State/config copied with script:
+  elo.json, match_record.json, parameters.json, ongoing.json, dodges.json,
+  elodahv*.json, banned_players.json, Maps/, MatchFoundText/
+
+Committed JSON uses synthetic user IDs; production data in `_live_data/` (gitignored).
+
+This folder is a GitHub candidate slice. Originals were copied, not moved.

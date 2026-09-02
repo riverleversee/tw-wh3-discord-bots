@@ -1,0 +1,5 @@
+Questo è un comando che ti permette di vedere i winrate e le partite totali di ogni fazione. 
+Per usare questo comando, inserisci "!factionstats". Che dà il winrate per tutte le fazioni in ogni matchup.
+
+Se vuoi vedere il winrate dettagliato di una fazione in specifici matchups, usa il comando "!factionstats faction: F1"
+Dove F1 è l'acronimo della fazione della quale vuoi vedere vedere le statistiche dettagliate. Per vedere l'intera lista di acronimi, usa !factions.

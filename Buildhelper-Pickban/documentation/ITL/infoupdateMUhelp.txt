@@ -1,0 +1,8 @@
+Questo è un comando per aggiornare!il consiglio per la build per nuovi giocatori.
+Per usare questo comando scrivi "!updateMUhelp MU: F1vsF2 newline: [INSERISCI QUALSIASI TESTO TU VOGLIA QUA (senza parentesi)]"
+
+Dove F1 e F2 sono acronimi oer le fazioni che stanno venendo aggiornate. Per esempio usa, "!updateMUhelp MU: DWvsGS" per aggiornare la sezione Nani di Nani vs Pelleverde.
+Per ottenere una lista completa di tutti gli acronimi accettati usa il comando !factions.
+Se devi aggiornare una sezione in una lingua che non sia l'inglese usa il comando "!updateMUhelp MU: F1vsF2 LANG: ESP newline: [TESTO QUA]" per lo spagnolo, "!updateMUhelp MU: F1vsF2 LANG: ITL newline: [TESTO QUA]" per l'italiano per aggiornare la versione tradotta.
+Non tutti gli utenti possono usare questo comando, se hai bisogno del permesso chiedere a un amministratore del server.
+Al momento non è possibile caricare immagini per ragioni di sicurezza, mandare a un amministratore del server nei DM qualsiasi immagine debba essere caricata. 

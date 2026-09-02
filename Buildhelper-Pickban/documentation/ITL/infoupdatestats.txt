@@ -1,0 +1,5 @@
+Questo è un comando usato per registrare vittorie e sconfitte all'interno del database per ottenere statistiche relative al winrate.
+Per usare questo comando scrivere !updatetstats Winner: F1 Loser: F2 
+
+Dove F1 e F2 sono acronimi delle fazioni che sono state giocate, F1 è la fazione che ha vinto e F2 ha perso. Per esempio, "!updatetstats Winner: BR Loser: GS" Aggiorna il database con un match in cui bretonnia ha vinto e i pelleverde hanno perso.
+Per ottenere una lista completa degli acronimi accettati usa il comando !factions.

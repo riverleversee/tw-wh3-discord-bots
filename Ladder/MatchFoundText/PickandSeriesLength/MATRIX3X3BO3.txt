@@ -1,0 +1,4 @@
+In each round, players should blind pick 3 factions each using this tool: https://aoe2cm.net/preset/lfVGf 
+Then each player bans 4 of the 9 potential matchups (use a 1-2-2-2-1 pattern starting with P1); after these 8 bans, the last remaining matchup will be played.
+
+No player may play the same faction more than once in a Bof3.

@@ -1,0 +1,4 @@
+Este es un comando para brindar consejos de builds y configuraciones a nuevos jugadores para cualquier enfrentamiento creado por jugadores veteranos.
+Para utilizar este comando, introduce "!MUhelp MU: F1vsF2" donde F1 y F2 son acrónimos de facciones para las facciones que se juegan. Por ejemplo, "!MUhelp MU: DWvsGS" para obtener ayuda en Enanos contra Pieles Verdes.
+Para obtener una lista completa de los acrónimos aceptables de las facciones, utiliza el comando !factions.
+Si necesitas un idioma diferente al inglés, utiliza el comando "!MUhelp MU: F1vsF2 LANG: ESP" para español, "!MUhelp MU: F1vsF2 LANG: ITL" para italiano, para ver si se ha creado una versión traducida.

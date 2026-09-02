@@ -1,0 +1,1 @@
+This game is anonymous and you do not know your opponent's name. To message your opponent use the /send_message command. If you have any problems with your opponent please contact an admin.
